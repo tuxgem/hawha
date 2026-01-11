@@ -1,0 +1,7 @@
+! name: Art Gallery Search
+! description: Boosts Deviantart and Pixiv.
+! public: false
+! author: tuxgem
+
+$boost=10,site=deviantart.com
+$boost=10,site=pixiv.net
