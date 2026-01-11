@@ -3,5 +3,6 @@
 ! public: false
 ! author: tuxgem
 
+$discard
 $boost,site=deviantart.com
 $boost,site=pixiv.net
