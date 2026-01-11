@@ -3,5 +3,5 @@
 ! public: false
 ! author: tuxgem
 
-$boost=10,site=deviantart.com
-$boost=10,site=pixiv.net
+$boost,site=deviantart.com
+$boost,site=pixiv.net
