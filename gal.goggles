@@ -6,4 +6,4 @@
 $discard
 $boost,site=deviantart.com
 $boost,site=pixiv.net
-blue$intext
+blue$incontent
