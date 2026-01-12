@@ -3,8 +3,7 @@
 ! public: false
 ! author: tuxgem
 
-blue$intext
-
 $discard
 $boost,site=deviantart.com
 $boost,site=pixiv.net
+blue$intext,boost=10
